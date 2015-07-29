@@ -1,0 +1,54 @@
+@import url(http://fonts.googleapis.com/css?family=Abel);
+#bg {
+  background-image: url(http://imgur.com/ZVqYQYA.jpg);
+  background-size: 100%;
+}
+.field1 {
+  margin-bottom: 1em;
+  margin-left: 1em;
+}
+
+.butn {
+  display: inline-block;
+  padding: 2px 12px;
+  margin-bottom: 0;
+  margin-left: 1em;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.42857143;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  -ms-touch-action: manipulation;
+  touch-action: manipulation;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-image: none;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  background: #000;
+}
+
+.btn-one {
+  color: #fff;
+  background-color: #337ab7;
+  border-color: #2e6da4;
+}
+
+.fade.in {
+  opacity: 1;
+}
+
+#result {
+  font-family: 'Abel', sans-serif;
+  font-size: 2em;
+  text-align: center;
+  margin-top: 2em;
+  
+}
+
+.hero { 
+margin-top: 15em;}
